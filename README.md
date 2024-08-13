@@ -17,5 +17,3 @@
 Graduado em Análise e Desenvolvimento de Sistemas, com habilidades em
 programação (Python), análise de dados (SQL, Python, Excel) e desenvolvimento
 de páginas web (HTML, CSS).
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleytoncx&size_weight=0.5&count_weight=0.5)
